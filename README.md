@@ -2,11 +2,12 @@
 I/O Stream Formatting
 
 
-Class ID: 
+Class ID: Taillow
 
 SRS ID: CST116SRS02
 
-Unresolved Issues: 
+Unresolved Issues: No issues, but when using this function (std::cout.imbue(std::locale("en-US"));) I didn't find a need to justify to the right.
+names and dollar symbol.
 
 Notes: 
 
